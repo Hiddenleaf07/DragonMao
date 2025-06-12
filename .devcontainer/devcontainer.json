@@ -1,5 +1,5 @@
 {
-  "name": "Python 3.12",
+  "name": "Python 3.14",
   "image": "mcr.microsoft.com/devcontainers/python:3.14",
   "postCreateCommand": "bash .devcontainer/post-create.sh",  // Call a script
   "customizations": {
